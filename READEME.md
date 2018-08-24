@@ -46,7 +46,7 @@ No known errors if found drop a message on my profile
 
 ## Support and contact details
 Contact me on developer. koyoomaxwel@gmail.com for any comments, reviews or advice.
-[koyoo-maxwel](maxwell@juantechno.com)
+[koyoo-maxwel](http://juantechno.com/maxwell-koyoo/)
 
 ### License
 [Copyright] (c)**koyoo-maxwel**
