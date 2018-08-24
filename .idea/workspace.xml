@@ -2,195 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308dc028-383b-4ae4-8c2b-518797fe7e98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../QUOTES/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/main.994a370f2c5bac5a890b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/polyfills.2f4a59095805af02bd79.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/runtime.a66f828dca56eeb90e02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/dist/QUOTES/styles.34c57ab7888ec1573f9c.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-details/quote-details.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-details/quote-details.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-details/quote-details.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-details/quote-details.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-form/quote-form.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-form/quote-form.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-form/quote-form.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote-form/quote-form.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote/quote.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote/quote.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote/quote.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/app/quote/quote.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QUOTES/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/main.68f635e956379557a80d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/polyfills.2f4a59095805af02bd79.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/runtime.a66f828dca56eeb90e02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/dist/github-profile-search/styles.34c57ab7888ec1573f9c.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-profile-search/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile/profile.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/app/profile/profile.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../friday/github-user-app/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../friday/github-user-app/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/components/profile/profile.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/components/profile/profile.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/components/profile/profile.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/components/profile/profile.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/profile.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/app/service/profile.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../github-search-app/tslint.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credential.py" beforeDir="false" afterPath="$PROJECT_DIR$/credential.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/main.7ff5241a29e244038cb3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/polyfills.2f4a59095805af02bd79.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/runtime.a66f828dca56eeb90e02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/dist/quote/styles.7116ebc3eb4c417abd0d.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-details/quote-details.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-details/quote-details.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-details/quote-details.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-details/quote-details.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-form/quote-form.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-form/quote-form.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-form/quote-form.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote-form/quote-form.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote/quote.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote/quote.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote/quote.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/app/quote/quote.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote/tslint.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +17,7 @@
     <session id="-623326363">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -209,58 +25,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="password-locker" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="50" />
-          <entry key="py" value="1153" />
+          <entry key="py" value="2850" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="50" />
-          <entry key="Python" value="1153" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="2850" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="5" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/user_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -268,9 +65,9 @@
       <list>
         <option value="$PROJECT_DIR$/READEME.md" />
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/credential.py" />
         <option value="$PROJECT_DIR$/user.py" />
         <option value="$PROJECT_DIR$/user_test.py" />
+        <option value="$PROJECT_DIR$/credential.py" />
       </list>
     </option>
   </component>
@@ -356,6 +153,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535086155793</updated>
     </task>
+    <task id="LOCAL-00001" summary="modified README">
+      <created>1535101661570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535101661570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -369,10 +174,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="597" y="24" width="769" height="744" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.21715818" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49921012" weight="0.3298611" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007899" side_tool="true" weight="0.3298611" />
@@ -389,28 +193,13 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21715818" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49921012" weight="0.3298611" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007899" side_tool="true" weight="0.3298611" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.11363637" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49921012" weight="0.3298611" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified README" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified README" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/password-locker">
@@ -423,33 +212,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/credential.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/READEME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
+          <first_editor relative-caret-position="396">
             <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/credential.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="5" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
