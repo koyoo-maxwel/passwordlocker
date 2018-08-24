@@ -45,7 +45,7 @@ No known errors if found drop a message on my profile
     - Python 3.6
 
 ## Support and contact details
-Contact me on developer.koyoomaxwel@gmail.com for any comments, reviews or advice.
+Contact me on developer. koyoomaxwel@gmail.com for any comments, reviews or advice.
 [koyoo-maxwel](maxwell@juantechno.com)
 
 ### License
