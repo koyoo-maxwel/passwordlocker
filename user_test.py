@@ -1,31 +1,31 @@
-import unittest # Importing the unittest module
-from user import user # Importing the user class
+import unittest # Importing unittest module
+from user import User #IMporting the user class
 
-class TestUsert(unittest.TestCase):
-    
+
+class TestUser(unittest.TestCase):
+
     '''
-    Test class that defines test cases for the use class behaviour.
+    Test class that defines test cases for the user behaviours.
 
-    Args:
-        unitest.TestCase: TestCase class that helps in creating test cases
+    Argsaa:
+          unitest.TestCase: TestCase that helps in creating test cases
     '''
 
-
-def setup(self):
+def setUp(self):
     '''
-     set up method to run before each cases.
+    set up method to run before each test cases.
     '''
-    self.new_user = user("koyoo","maxwell","0204405922","koyoomaxwel@gmail.com") # create user object
+    self.new_user = User("koyoo","maxwel","0204405922","koyoomaxwel@gmail.com") #create user object
 
-    def rest_init(self):
-        '''
-        test_init test case to test if the object is initialized properly
-        '''
+def test_init(self):
+    '''
+    test_init test case to test if the object is initialized properly
+    '''
 
-        self.assertEqual(self.new_user.first_name,"koyoo")
-        self.assertEqual(self.new_user.last_name,"maxwell")
-        self.assertEqual(self.new_user.phone_number,"0204405922")
-        self.assertEqual(self.new_user.email,"koyoomaxwel@gmail.com")
+    self.assertEqual(self.new_user.first_name,"koyoo")
+    self.assertEqual(self.new_user.last_name,"maxwel")
+    self.assertEqual(self.new_user.phone_number,"0204405922")
+    self.assertEqual(self.new_user.email,"koyoomaxwel@gmail.com")
 
-        if __name__ == '__main__':
-            unittest.main()
+    if __name__ == '__main__':
+        unittest.main()
