@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308dc028-383b-4ae4-8c2b-518797fe7e98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_test.py" afterDir="false" />
     </list>
@@ -15,10 +17,11 @@
     <session id="-623326363">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,7 +42,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="50" />
-          <entry key="py" value="3686" />
+          <entry key="py" value="4476" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
@@ -47,24 +50,25 @@
         <counts>
           <entry key="Markdown" value="50" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="3686" />
+          <entry key="Python" value="4476" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="-60">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
-                <marker date="1535120375811" expanded="true" signature="128:129" ph="..." />
-                <marker date="1535120375811" expanded="true" signature="128:134" ph="..." />
-                <marker date="1535120375811" expanded="true" signature="311:316" ph="..." />
-                <marker date="1535120375811" expanded="true" signature="498:503" ph="..." />
+                <marker date="1535123084870" expanded="true" signature="128:129" ph="..." />
+                <marker date="1535123084870" expanded="true" signature="128:134" ph="..." />
+                <marker date="1535123084870" expanded="true" signature="315:324" ph="..." />
+                <marker date="1535123084870" expanded="true" signature="522:531" ph="..." />
+                <marker date="1535123084870" expanded="true" signature="1837:1844" ph="..." />
               </folding>
             </state>
           </provider>
@@ -73,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -98,7 +102,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="597" />
-    <option name="y" value="59" />
+    <option name="y" value="69" />
     <option name="width" value="769" />
     <option name="height" value="708" />
   </component>
@@ -108,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,10 +123,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="themes&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -201,13 +206,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="597" y="59" width="769" height="708" extended-state="0" />
-    <editor active="true" />
+    <frame x="597" y="69" width="769" height="708" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2106632" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49921012" visible="true" weight="0.33665007" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49921012" visible="true" weight="0.35121107" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007899" side_tool="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -266,21 +270,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="-60">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
-            <marker date="1535120375811" expanded="true" signature="128:129" ph="..." />
-            <marker date="1535120375811" expanded="true" signature="128:134" ph="..." />
-            <marker date="1535120375811" expanded="true" signature="311:316" ph="..." />
-            <marker date="1535120375811" expanded="true" signature="498:503" ph="..." />
+            <marker date="1535123084870" expanded="true" signature="128:129" ph="..." />
+            <marker date="1535123084870" expanded="true" signature="128:134" ph="..." />
+            <marker date="1535123084870" expanded="true" signature="315:324" ph="..." />
+            <marker date="1535123084870" expanded="true" signature="522:531" ph="..." />
+            <marker date="1535123084870" expanded="true" signature="1837:1844" ph="..." />
           </folding>
         </state>
       </provider>
