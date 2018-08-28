@@ -1,5 +1,6 @@
 import unittest # Importing the unittest module
 from user import User # Importing the user class
+import pyperclip # importing users details saved on the clipboard
 
 class TestUser(unittest.TestCase):
 
@@ -81,9 +82,14 @@ class TestUser(unittest.TestCase):
         method that returns a list of all users saved
         '''
 
-        self.assertEqual(User.display_users(),User.user_list)   
+        self.assertEqual(User.display_users(),User.user_list)
 
-    
+
+   
+
+       
+
+
 
 
 if __name__ == '__main__':

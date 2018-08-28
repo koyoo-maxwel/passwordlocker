@@ -1,3 +1,4 @@
+import pyperclip # importing users details saved on the clipboard
 class User:
         """
         Class that generates new instances of contacts.
@@ -47,18 +48,4 @@ class User:
                  if user.phone_number == number:
                   return user
 
-        @classmethod
-        def display_users(cls):
-            '''
-            method that returns the user list
-            '''
-            return cls.user_list
-          
-
-
-    
-
-
-
-
-
+        
