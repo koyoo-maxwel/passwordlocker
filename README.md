@@ -30,7 +30,11 @@ The user will be met with the following commands while signing in:
 | Log Out | Type: lo | **Logs out the user** <br>Goodbye `name`! |
 | Exit Application | Type: ex | **Closes the application** <br>Goodbye!! |
 
+<<<<<<< HEAD
 ##  Prerequiites
+=======
+## Prerequiites
+>>>>>>> ba8f3d7ea84e21626954d8a65d4d494329b21f63
     - Python 3.6 required
 
 ## Set-up and Installation
@@ -71,4 +75,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< HEAD
 SOFTWARE.
+=======
+SOFTWARE.
+>>>>>>> ba8f3d7ea84e21626954d8a65d4d494329b21f63

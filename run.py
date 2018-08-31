@@ -70,10 +70,10 @@ def display_credentials():
 def main():
     print('''
     Welcome to password locker!, What would you like to do today?''')
-    print('\y')
+    
 
     while True:
-        print("Use these short codes : cra - create a new password locker account, lg - to log into your password locker account, fiu-to find user account")
+        print("Use these short codes : cra - create a new password locker account, in - to log into your password locker account, fiu-to find user account")
         short_code = input().lower()
 
 
@@ -85,12 +85,12 @@ def main():
             password = input()
 
             save_users(create_user(username,password))
-            print('\y')
-            print(f"WELCOME! {username}, proceed to logging in  to your account now")
-            print('\y')
 
-        elif short_code == 'fu':
-            print(" \y Enter the username to find the user account \y")
+            print(f"WELCOME! {username}, proceed to logging in  to your account now")
+
+
+        elif short_code == 'fiu':
+            print(" Enter the username to find the user account ")
             search_username = input()
             if check_existing_users(search_username):
                 search_user = find_user(search_username)
@@ -99,13 +99,13 @@ def main():
             else:
                  print("You dont seem to have an account yet")
 
-        elif short_code =='x' :
+        elif short_code =='x':
             print(" We are sorry ,Please try again later")
             break
-            
+
 
         elif short_code == 'in':
-            print('\y')
+
             print("Enter your password-locker username:")
             username = input()
             print("Enter your password:")
@@ -113,16 +113,16 @@ def main():
             if check_existing_users(username):
                 logged_user = find_user(username)
                 print(f"Welcome! {logged_user.username}")
-                print('\y')
+
                 while True:
-                    print(" please Use these other short codes : cc - create a new credential, gp - to generate password, dc-to display credential, rc - to remove credential, fc-to find credential, x -exit the user list ")
+                    print(" please Use these other short codes : cra- create a new credential, gp - to generate password, dc-to display credential, rc - to remove credential, fiu-to find credential, x -exit the user list ")
                     in_short_code2 = input().lower()
-                    
+
 
                     if in_short_code2 == 'cc':
-                        print('\y')
+
                         print("Provide valid credentials please")
-                        print('\y')
+
                         print("Enter the account name you would want to save the password for")
                         acc_name=input()
                         print("Enter your login username for the account")
@@ -130,30 +130,30 @@ def main():
                         print("Enter your password ")
                         pword=input()
                         save_credentials(create_credential(acc_name,login_name,password))
-                        print('\y')
+
                         print(f"You have created a new credential for your {acc_name} account.")
-                        print('\y')
+
 
                     elif in_short_code2 == 'gp':
                         alphabet = string.ascii_letters + string.digits
                         password = ''.join(choice(alphabet) for i in range(10))
                         print(f"Your new generated password is: {password} \y")
-                      
+
 
                     elif in_short_code2 == 'dc':
                         print('/n')
                         if display_credentials():
                             print("please confirm your  credentials input:")
-                            print('\y')
+
                             for credential in display_credentials():
                                 print(f"Account: {credential.acc_name}")
                                 print(f"Login name: {credential.login_name}")
                                 print(f"Password: {credential.password}")
-                                print('\y')
+
                         else:
                             print("\n You do not have any saved credentials")
 
-                    elif in_short_code2 == 'fc':
+                    elif in_short_code2 == 'fiu':
                         print("Enter the account name you want to search for")
 
                         search_acc_name = input()
@@ -162,26 +162,26 @@ def main():
                             print(f"The account name is: {search_credential.acc_name}")
                             print(f"your account name has a match:  {search_credential.login_name}")
                             print(f"The saved password is: {search_credential.password}")
-                        
+
                         else:
                             print("That credential does not exist")
 
-                
 
-                    elif in_short_code2 == 'rc':
+
+                    elif in_short_code2 == 'rca':
                         print("Enter the account name you want to delete")
 
                         del_acc_name = input()
                         if check_existing_credentials(del_acc_name):
                             search_del_credential = find_credential(del_acc_name)
                             del_credential(search_del_credential)
-                         
+
                             print(f"Are you sure you want to to do this! {del_acc_name}")
-                        
+
                         else:
                             print("That credential does not exist")
 
-                    elif in_short_code2 =='x' :
+                    elif in_short_code2 =='x':
                             print("please check back to the app to save other credentials")
                             break
 
@@ -190,21 +190,11 @@ def main():
                 print("Account does not exist")
 
         else:
-            print("Incorrect shortcode, try another option "
+            print("Incorrect shortcode, try another option ")
 
-        
-            
-            
-            
+
+
+
+
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
